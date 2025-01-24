@@ -1,0 +1,6 @@
+# MacOS files
+.DS_Store
+
+# data files
+*.txt
+*.data
